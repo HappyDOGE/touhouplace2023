@@ -2,9 +2,9 @@
 
 1. Install the [ViolentMonkey Extension/Plugin](https://violentmonkey.github.io/get-it/)
 2. Open [this link](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the template manager script
-3. Open [r/place](https://new.reddit.com/r/place/?jsontemplate=https%3A%2F%2Ftp23.dogecore.net%2Ftemplate.json
-)
+3. Open [r/place](https://new.reddit.com/r/place/?jsontemplate=https%3A%2F%2Ftp23.dogecore.net%2Ftemplate.json)
     - Alternatively add `https://tp23.dogecore.net/template.json` to your templates in the settings menu
+    ![Settings Menu](https://cdn.discordapp.com/attachments/1088193718881878026/1131663330839363615/image.png)
 
 ### IOS
 Download the [userscripts app](https://apps.apple.com/gb/app/userscripts/id1463298887), enable in safari -> manage extensions, click it to allow it on all sites.
