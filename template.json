@@ -13,6 +13,14 @@
       ],
       "x": 637,
       "y": 640
+    },
+    {
+      "name": "Mini-Cirno",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131597321189195847/1131649321360687245/MiniCirbo.png"
+      ],
+      "x": 658,
+      "y": 639
     }
   ],
   "whitelist": [
