@@ -27,8 +27,16 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131623739537248277/1131671153946132520/image.png"
       ],
-      "x": 138,
-      "y": 211
+      "x": 638,
+      "y": 711
+    },
+    {
+      "name": "World's Smallest Rumia",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131676105632399492/1131692907083091998/rumia_1_to_1.png"
+      ],
+      "x": 691,
+      "y": 657
     }
   ],
   "whitelist": [
