@@ -21,6 +21,14 @@
       ],
       "x": 658,
       "y": 636
+    },
+    {
+      "name": "KKHTA Heart",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131623739537248277/1131671153946132520/image.png"
+      ],
+      "x": 138,
+      "y": 211
     }
   ],
   "whitelist": [
