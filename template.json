@@ -32,6 +32,10 @@
     {
       "name": "Touhou r/place",
       "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
+    },
+    {
+      "name": "Touhou r/place",
+      "url": "https://rentry.org/touhouplace2023/raw"
     }
   ]
 }
