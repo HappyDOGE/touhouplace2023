@@ -1,0 +1,37 @@
+{
+  "faction": "Touhou r/place",
+  "contact": "https://discord.gg/Yks9vvjnWX Touhou r/place, @overstonked",
+  "templates": [
+    {
+      "name": "Reimu and Marisa",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1024801662788968478/1121526832232149102/ReimuMarisa.png"
+      ],
+      "priorityMaskSources": [
+        "https://cdn.discordapp.com/attachments/1024801662788968478/1121526832471228426/touhou_mask.png"
+      ],
+      "x": 637,
+      "y": 640
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "r/hatsune",
+      "url": "https://rentry.co/hatsune2023/raw"
+    },
+    {
+      "name": "r/osuplace",
+      "url": "https://osu.place/e/osuplace2023.json"
+    },
+    {
+      "name": "P3ACE",
+      "url": "https://charity.pxls.space/p3ace"
+    }
+  ],
+  "blacklist": [
+    {
+      "name": "Touhou r/place",
+      "url": "https://rentry.org/touhouplace2023/raw"
+    }
+  ]
+}
