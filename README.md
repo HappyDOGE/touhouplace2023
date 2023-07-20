@@ -11,4 +11,4 @@ Download the [userscripts app](https://apps.apple.com/gb/app/userscripts/id14632
 Then open the [template manager userscript](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js), open the extension and it should show "userscript detected, click here to install".
 
 ### Android
-Use the Firefox app and install Tampermonkey. Then open the [script link](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js).
+Use the Firefox app and install the Tampermonkey plugin. Then open the [script link](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js).
