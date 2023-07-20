@@ -26,7 +26,7 @@
   "whitelist": [
     {
       "name": "r/hatsune",
-      "url": "https://gist.githubusercontent.com/mikusquared/c6bdc4969638ddafb7a7d25a9f695eff/raw/"
+      "url": "https://hatsune.proxnet.dev/place/overlayRaw"
     },
     {
       "name": "r/osuplace",
