@@ -15,12 +15,12 @@
       "y": 640
     },
     {
-      "name": "Mini-Cirno",
+      "name": "Mini-Cirno & Mini-Daiyousei",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131597321189195847/1131652462210719865/MiniCirbo.png"
+        "https://cdn.discordapp.com/attachments/1131703322928218244/1131734101267849236/dayousei.png"
       ],
-      "x": 658,
-      "y": 636
+      "x": 652,
+      "y": 639
     },
     {
       "name": "KKHTA Heart",
