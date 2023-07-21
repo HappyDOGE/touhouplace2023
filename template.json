@@ -37,7 +37,16 @@
       ],
       "x": 691,
       "y": 657
-    }
+    },
+    {
+      "name": "World's Smallest Koishi",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1088193718881878026/1131764415067332678/koosh.png"
+      ],
+      "x": 689,
+      "y": 662
+    },
+    
   ],
   "whitelist": [
     {
