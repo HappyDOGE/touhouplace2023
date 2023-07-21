@@ -53,6 +53,14 @@
       ],
       "x": 683,
       "y": 654
+    },
+    {
+      "name": "Imperishable Night",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1131809282199933039/image.png"
+      ],
+      "x": 674,
+      "y": -315
     }
   ],
   "whitelist": [
