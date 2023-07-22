@@ -69,6 +69,13 @@
       ],
       "x": 386,
       "y": 745
+    },{
+      "name": "miko trans",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131947820992168077/1132208599377125416/image.png"
+      ],
+      "x": 1139,
+      "y": 566
     }
   ],
   "whitelist": [
