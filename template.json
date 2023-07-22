@@ -8,8 +8,8 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1088193718881878026/1131764415067332678/koosh.png"
       ],
-      "x": 689,
-      "y": 662
+      "x": 1189,
+      "y": 1162
     },
     {
       "name": "Reimu and Marisa",
@@ -19,32 +19,32 @@
       "priorityMaskSources": [
         "https://cdn.discordapp.com/attachments/1024801662788968478/1121526832471228426/touhou_mask.png"
       ],
-      "x": 637,
-      "y": 640
+      "x": 1137,
+      "y": 1140
     },
     {
       "name": "Mini-Cirno & Mini-Daiyousei",
       "sources": [
         "https://cdn.discordapp.com/attachments/1120259502797754479/1132070366257360916/dayousei.png"
       ],
-      "x": 652,
-      "y": 639
+      "x": 1152,
+      "y": 1139
     },
     {
       "name": "World's Tiniest Rumia",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131676105632399492/1131692907083091998/rumia_1_to_1.png"
       ],
-      "x": 691,
-      "y": 657
+      "x": 1191,
+      "y": 1157
     },
     {
       "name": "World's Tiniest Flandre",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131711749700190279/1131711749972828243/pixil-frame-0.png"
       ],
-      "x": 683,
-      "y": 654
+      "x": 1183,
+      "y": 1154
     }
   ],
   "whitelist": [
