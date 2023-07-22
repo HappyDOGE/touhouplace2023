@@ -87,20 +87,12 @@
       "y": 566
     },
     {
-      "name": "sekibanki head",
+      "name": "thai minimima and sekibanki",
       "sources": [
         "https://cdn.discordapp.com/attachments/1088193718881878026/1132361336496607332/Sprite-0001.png"
       ],
-      "x": 466, 
-      "y": 549 
-    },
-    {
-      "name": "minimima",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1088193718881878026/1132363321203503275/mimamini-1_is_to_1.png"
-      ],
       "x": 458, 
-      "y": 553
+      "y": 543 
     }
   ],
   "whitelist": [
