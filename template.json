@@ -45,6 +45,14 @@
       ],
       "x": 1183,
       "y": 654
+    },
+    {
+      "name": "ZUN"
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131740719372062782/1132211471988834334/image.png"
+      ],
+      "x": 221,
+      "y": 134
     }
   ],
   "whitelist": [
