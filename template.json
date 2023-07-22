@@ -12,7 +12,7 @@
         "https://cdn.discordapp.com/attachments/1024801662788968478/1121526832471228426/touhou_mask.png"
       ],
       "x": 1137,
-      "y": 640
+      "y": 1140
     },
     {
       "name": "Mini-Cirno & Mini-Daiyousei",
@@ -20,7 +20,7 @@
         "https://cdn.discordapp.com/attachments/1131711749700190279/1132386961211015288/dayousei.png"
       ],
       "x": 1152,
-      "y": 638
+      "y": 1138
     },
     {
       "name": "mini mystia",
@@ -28,7 +28,7 @@
         "https://cdn.discordapp.com/attachments/1120259502797754479/1132331746067755159/Mystia.png"
       ],
       "x": 385,
-      "y": 791
+      "y": 1291
     },
     {
       "name": "ZUN",
@@ -44,7 +44,7 @@
         "https://cdn.discordapp.com/attachments/1131922546472800348/1132308503168557146/image.png"
       ],
       "x": 701,
-      "y": 643
+      "y": 1143
     },
     {
       "name": "blacksouls",
@@ -52,7 +52,7 @@
         "https://cdn.discordapp.com/attachments/1131677727196455013/1132101111134818515/1_to_1.png"
       ],
       "x": 386,
-      "y": 745
+      "y": 1245
     },
     {
       "name": "miko trans",
@@ -60,7 +60,7 @@
         "https://cdn.discordapp.com/attachments/1131947820992168077/1132208599377125416/image.png"
       ],
       "x": 1139,
-      "y": 566
+      "y": 1066
     },
     {
       "name": "thai minimima and sekibanki",
@@ -68,7 +68,7 @@
         "https://cdn.discordapp.com/attachments/1132374540463390740/1132386862732943360/ThailandSekibanki.png"
       ],
       "x": 458, 
-      "y": 543 
+      "y": 1043 
     },
     {
       "name": "Mini Nitori",
@@ -76,7 +76,7 @@
         "https://cdn.discordapp.com/attachments/1120259502797754479/1132427275338518659/Nitori2.png"
       ],
       "x": 296,
-      "y": 991
+      "y": 1491
     }
   ],
   "whitelist": [
