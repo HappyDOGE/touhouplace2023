@@ -4,9 +4,17 @@
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
     {
+      "name": "World's Tiniest Koishi",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1088193718881878026/1131764415067332678/koosh.png"
+      ],
+      "x": 689,
+      "y": 662
+    },
+    {
       "name": "Reimu and Marisa",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1132075554259091476/marireimu.png"
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132111340740288554/image.png"
       ],
       "priorityMaskSources": [
         "https://cdn.discordapp.com/attachments/1024801662788968478/1121526832471228426/touhou_mask.png"
@@ -23,28 +31,12 @@
       "y": 639
     },
     {
-      "name": "KKHTA Heart",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131623739537248277/1132071324693581894/kkhta7x7.png"
-      ],
-      "x": 694,
-      "y": 665
-    },
-    {
-      "name": "World's Smallest Rumia",
+      "name": "World's Tiniest Rumia",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131676105632399492/1131692907083091998/rumia_1_to_1.png"
       ],
       "x": 691,
       "y": 657
-    },
-    {
-      "name": "World's Smallest Koishi",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1088193718881878026/1131764415067332678/koosh.png"
-      ],
-      "x": 689,
-      "y": 662
     },
     {
       "name": "World's Tiniest Flandre",
