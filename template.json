@@ -55,6 +55,14 @@
       "y": 5000
     },
     {
+      "name": "romania alice",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131922546472800348/1132308503168557146/image.png"
+      ],
+      "x": 703,
+      "y": 605
+    },
+    {
       "name": "mystia's izakaya",
       "sources": [
         "https://cdn.discordapp.com/attachments/1132002771533574207/1132175112335020062/Lilac_Soul_1_to_1.png"
@@ -69,7 +77,8 @@
       ],
       "x": 386,
       "y": 745
-    },{
+    },
+    {
       "name": "miko trans",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131947820992168077/1132208599377125416/image.png"
