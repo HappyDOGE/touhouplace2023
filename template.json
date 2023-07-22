@@ -93,6 +93,14 @@
       ],
       "x": 458, 
       "y": 543 
+    },
+    {
+      "name": "Mini Nitori",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132427275338518659/Nitori2.png"
+      ],
+      "x": 296,
+      "y": 990
     }
   ],
   "whitelist": [
