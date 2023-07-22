@@ -4,14 +4,6 @@
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
     {
-      "name": "World's Tiniest Koishi",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1088193718881878026/1131764415067332678/koosh.png"
-      ],
-      "x": 1189,
-      "y": 662
-    },
-    {
       "name": "Reimu and Marisa",
       "sources": [
         "https://cdn.discordapp.com/attachments/1120259502797754479/1132424031304433784/image_11.png"
@@ -29,22 +21,6 @@
       ],
       "x": 1152,
       "y": 638
-    },
-    {
-      "name": "World's Tiniest Rumia",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131676105632399492/1131692907083091998/rumia_1_to_1.png"
-      ],
-      "x": 1191,
-      "y": 657
-    },
-    {
-      "name": "World's Tiniest Flandre",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1131711749972828243/pixil-frame-0.png"
-      ],
-      "x": 1183,
-      "y": 654
     },
     {
       "name": "mini mystia",
