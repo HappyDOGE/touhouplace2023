@@ -128,6 +128,14 @@
 
       "y": 744
 
+    },
+    {
+      "name": "Okuu",
+      "sources": [
+        "https://media.discordapp.net/attachments/1120259502797754479/1132739077398089879/okuu.png"
+      ],
+      "x": 672,
+      "y": 752
     }
   ],
   "whitelist": [
