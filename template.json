@@ -22,10 +22,10 @@
     {
       "name": "mini mystia",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1132331746067755159/Mystia.png"
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132476249877528616/Mystia.png"
       ],
       "x": 380,
-      "y": 274
+      "y": 273
     },
     {
       "name": "ZUN",
@@ -56,8 +56,8 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1120259502797754479/1132469286569525328/kasen.png"
       ],
-      "x": 389,
-      "y": 268
+      "x": 612,
+      "y": 283
     },
     {
       "name": "miko trans",
