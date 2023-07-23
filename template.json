@@ -52,6 +52,14 @@
       "y": 1245
     },
     {
+      "name": "tiny kasen",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132469286569525328/kasen.png"
+      ],
+      "x": 389,
+      "y": 268
+    },
+    {
       "name": "miko trans",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131947820992168077/1132208599377125416/image.png"
@@ -72,7 +80,7 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1120259502797754479/1132427275338518659/Nitori2.png"
       ],
-      "x": 296,
+      "x": 289,
       "y": 1491
     }
   ],
