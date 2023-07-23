@@ -3,6 +3,14 @@
   "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
+       {
+      "name": "Reimu and Marisa + canada",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132579310193082388/image.png"
+      ],
+      "x": 1090,
+      "y": 1150
+    },
     {
       "name": "Reimu and Marisa",
       "sources": [
@@ -14,7 +22,7 @@
     {
       "name": "Mini-Cirno & Mini-Daiyousei",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132559255577313330/dayousei.png"
+        "https://cdn.discordapp.com/attachments/1131711749700190279/1132386961211015288/dayousei.png"
       ],
       "x": 1152,
       "y": 1138
@@ -22,7 +30,7 @@
     {
       "name": "mini mystia",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1024770950748700672/1132556686524166185/Mini_Mystia_1_to_1.png"
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132476249877528616/Mystia.png"
       ],
       "x": 380,
       "y": 273
@@ -70,7 +78,7 @@
     {
       "name": "thai minimima and sekibanki",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132546752440963192/7-23-2023-realmadrid-thai-mima-sekibanki.png"
+        "https://cdn.discordapp.com/attachments/1132374540463390740/1132510364244922408/7-23-2023-realmadrid-thai-mima-sekibanki.png"
       ],
       "x": 457, 
       "y": 1039 
