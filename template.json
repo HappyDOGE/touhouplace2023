@@ -54,10 +54,10 @@
     {
       "name": "ZUN",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131740719372062782/1132211471988834334/image.png"
+        "https://media.discordapp.net/attachments/1131964242346659992/1131992313346920591/Zun_place.png"
       ],
-      "x": 5000,
-      "y": 5000
+      "x": 1672,
+      "y": 1752
     },
     {
       "name": "romania alice",
@@ -128,14 +128,6 @@
 
       "y": 744
 
-    },
-    {
-      "name": "Okuu",
-      "sources": [
-        "https://media.discordapp.net/attachments/1120259502797754479/1132739077398089879/okuu.png"
-      ],
-      "x": 1672,
-      "y": 1752
     }
   ],
   "whitelist": [
