@@ -22,10 +22,18 @@
     {
       "name": "Mini-Cirno & Mini-Daiyousei",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132386961211015288/dayousei.png"
+        "https://cdn.discordapp.com/attachments/1131711749700190279/1132559255577313330/dayousei.png"
       ],
       "x": 1152,
       "y": 1138
+    },
+    {
+      "name": "9ball",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131711749700190279/1132544705113104445/image.png"
+      ],
+      "x": 1142, 
+      "y": 1140 
     },
     {
       "name": "mini mystia",
