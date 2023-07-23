@@ -20,6 +20,14 @@
       "y": 1140
     },
     {
+      "name": "kanji",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132655516053672046/6604.png"
+      ],
+      "x": 1162,
+      "y": 1173
+    },
+    {
       "name": "Mini-Cirno & Mini-Daiyousei",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131711749700190279/1132559255577313330/dayousei.png"
