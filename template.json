@@ -180,6 +180,10 @@
       "url": "https://osu.place/e/osuplace2023.json"
     },
     {
+      "name": "vietnam",
+      "url": "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json"
+    },
+    {
       "name": "P3ACE",
       "url": "https://charity.pxls.space/p3ace"
     }
