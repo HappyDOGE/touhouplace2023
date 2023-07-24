@@ -3,12 +3,20 @@
   "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
+         {
+      "name": "mini sakyya",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132853978422591550/1132853978875564074/sakuya.png"
+      ],
+      "x": 1648,
+      "y": 1223
+    },
        {
       "name": "Reimu and Marisa + canada",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131612045226283179/1132830417163137155/image.png"
       ],
-      "x": 1090,
+      "x": 1590,
       "y": 1150
     },
     {
@@ -16,7 +24,7 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131612045226283179/1132830417435762808/overlaid_v2.png"
       ],
-      "x": 1137,
+      "x": 1637,
       "y": 1140
     },
     {
@@ -24,7 +32,7 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1120259502797754479/1132655516053672046/6604.png"
       ],
-      "x": 1162,
+      "x": 1662,
       "y": 1173
     },
     {
@@ -32,7 +40,7 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131711749700190279/1132559255577313330/dayousei.png"
       ],
-      "x": 1152,
+      "x": 1652,
       "y": 1138
     },
     {
@@ -40,7 +48,7 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131711749700190279/1132544705113104445/image.png"
       ],
-      "x": 1142, 
+      "x": 1642, 
       "y": 1140 
     },
     {
@@ -48,7 +56,7 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1088193718881878026/1132720593968582837/Rose_Mystia_1_to_1-uruguay.png"
       ],
-      "x": 1241,
+      "x": 1741,
       "y": 1144
     },
     {
@@ -56,7 +64,7 @@
       "sources": [
         "https://media.discordapp.net/attachments/1131964242346659992/1131992313346920591/Zun_place.png"
       ],
-      "x": 1672,
+      "x": 2172,
       "y": 1752
     },
     {
@@ -64,7 +72,7 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131922546472800348/1132308503168557146/image.png"
       ],
-      "x": 701,
+      "x": 1201,
       "y": 1143
     },
     {
