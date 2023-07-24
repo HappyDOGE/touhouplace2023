@@ -1,235 +1,243 @@
 {
-  "faction": "Touhou r/place",
-  "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
-  "notifications": "https://tp23-broadcaster.dogecore.net",
-  "templates": [
+    "faction": "Touhou r/place",
+    "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
+    "notifications": "https://tp23-broadcaster.dogecore.net",
+    "templates": [
       {
-      "name": "Star Wars and Vietnam Collab",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1133021029783064717/collab.png"
-      ],
-      "x": 130,
-      "y": 1065
-    },
-    {
-      "name": "mini flan n rikako",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1132978062359810068/RIKAKO.png"
-      ],
-      "x": 1633,
-      "y": 1120
-    },
-    {
-      "name": "sanae and suwako",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132935516329885696/minisanaesuwako.png"
-      ],
-      "x": 1648,
-      "y": 1197
-    },
-    {
-      "name": "backup hijack",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1132952385191419914/hijack_3x34.png"
-      ],
-      "x": 2786,
-      "y": 1225
-    },
-    {
-      "name": "miniflandre and minirikako",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132889789885059122/RIKAKO.png"
-      ],
-      "x": 1622,
-      "y": 1136
-    },
-    {
-      "name": "mini sakyya",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1132853978422591550/1132853978875564074/sakuya.png"
-      ],
-      "x": 1648,
-      "y": 1223
-    },
-    {
-      "name": "Reimu and Marisa",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131612045226283179/1132955585432780851/overlaid_v3_new_heart.png"
-      ],
-      "x": 1635,
-      "y": 1140
-    },
-    {
-      "name": "kanji",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1132655516053672046/6604.png"
-      ],
-      "x": 1662,
-      "y": 1173
-    },
-    {
-      "name": "Mini-Cirno & Mini-Daiyousei",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132559255577313330/dayousei.png"
-      ],
-      "x": 1652,
-      "y": 1138
-    },
-    {
-      "name": "9ball",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132544705113104445/image.png"
-      ],
-      "x": 1642,
-      "y": 1140
-    },
-    {
-      "name": "Mini Mystia",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1132002771533574207/1132892556569608332/Rose_Mystia_1_to_1.png"
-      ],
-      "x": 180,
-      "y": 1009
-    },
-    {
-      "name": "backup Mini Mystia",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1132002771533574207/1132892556569608332/Rose_Mystia_1_to_1.png"
-      ],
-      "x": 2894,
-      "y": 1225
-    },
-    {
-      "name": "ZUN",
-      "sources": [
-        "https://media.discordapp.net/attachments/1131964242346659992/1131992313346920591/Zun_place.png"
-      ],
-      "x": 2172,
-      "y": 1752
-    },
-    {
-      "name": "romania alice",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131922546472800348/1132308503168557146/image.png"
-      ],
-      "x": 1201,
-      "y": 1143
-    },
-    {
-      "name": "blacksouls",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131677727196455013/1132101111134818515/1_to_1.png"
-      ],
-      "x": 386,
-      "y": 1245
-    },
-    {
-      "name": "tiny kasen",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1132469286569525328/kasen.png"
-      ],
-      "x": 388,
-      "y": 283
-    },
-    {
-      "name": "miko trans",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131947820992168077/1132208599377125416/image.png"
-      ],
-      "x": 1639,
-      "y": 1066
-    },
-    {
-      "name": "thai minimima and sekibanki",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132641145055363143/7-23-2023-realmadrid-thai-mima-sekibanki_v3.png"
-      ],
-      "x": 457,
-      "y": 1039
-    },
-    {
-      "name": "gap train",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1132430920863973506/1132687642392264754/YukariYES.png"
-      ],
-      "x": 1981,
-      "y": 608
-    },
-    {
-      "name": "Rin Satsuki hijack",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1132783054751010917/weeny_Hijack_1.png"
-      ],
-      "x": 1236,
-      "y": 1740
-    },
-    {
-      "name": "Mini Nitori",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131964242346659992/1132945802470371409/NitoriSmall.png"
-      ],
-      "x": 370,
-      "y": 706
-    },
-    {
-      "name": "minihecatia",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132943455572729917/hecatiaaaaaaaaaaaaaa.png"
-      ],
-      "x": 383,
-      "y": 700
-    },
-    {
-      "name": "Wowaka Miku Temporary",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131324890717364226/1131967739280510986/omori-meek-drawing.png"
-      ],
-      "x": 70,
-      "y": 744
-    },
-    {
-      "name": "Doot asked me to put this",
-      "sources": [
-        "https://media.discordapp.net/attachments/1018971359478558770/1133024694652633130/red_hood.-679.-599.png"
-      ],
-      "x": 821,
-      "y": 401
-    }
-  ],
-  "whitelist": [
-    {
-      "name": "r/hatsune",
-      "url": "https://hatsune.proxnet.dev/place/overlayRaw"
-    },
-    {
-      "name": "r/osuplace",
-      "url": "https://osu.place/e/osuplace2023.json"
-    },
-    {
-      "name": "vietnam",
-      "url": "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json"
-    },
-    {
-      "name": "P3ACE",
-      "url": "https://charity.pxls.space/p3ace"
-    },
-    {
-      "name": "ReiMari",
-      "url": "https://raw.githubusercontent.com/LynnAnalytics/templateManager/main/templates/yuri5.json"
-    } 
-  ],
-  "blacklist": [
-    {
-      "name": "Touhou r/place",
-      "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
-    },
-    {
-      "name": "Touhou r/place",
-      "url": "https://rentry.org/touhouplace2023/raw"
-    },
-    {
-      "name": "Touhou r/place",
-      "url": "https://tp23.dogecore.net/template.json"
-    }
-  ]
-}
+        "name": "Berserk&co swords alliance",
+        "sources": [
+          "https://media.discordapp.net/attachments/1133001640635535430/1133048971431002302/hosfinalfinalfinalfinalfuckyousloid.png"
+        ],
+        "x": 2001,
+        "y": 1902
+      },
+      {
+        "name": "Star Wars and Vietnam Collab",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1120259502797754479/1133021029783064717/collab.png"
+        ],
+        "x": 130,
+        "y": 1065
+      },
+      {
+        "name": "mini flan n rikako",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1120259502797754479/1132978062359810068/RIKAKO.png"
+        ],
+        "x": 1633,
+        "y": 1120
+      },
+      {
+        "name": "sanae and suwako",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131711749700190279/1132935516329885696/minisanaesuwako.png"
+        ],
+        "x": 1648,
+        "y": 1197
+      },
+      {
+        "name": "backup hijack",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1120259502797754479/1132952385191419914/hijack_3x34.png"
+        ],
+        "x": 2786,
+        "y": 1225
+      },
+      {
+        "name": "miniflandre and minirikako",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131711749700190279/1132889789885059122/RIKAKO.png"
+        ],
+        "x": 1622,
+        "y": 1136
+      },
+      {
+        "name": "mini sakyya",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1132853978422591550/1132853978875564074/sakuya.png"
+        ],
+        "x": 1648,
+        "y": 1223
+      },
+      {
+        "name": "Reimu and Marisa",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131612045226283179/1132955585432780851/overlaid_v3_new_heart.png"
+        ],
+        "x": 1635,
+        "y": 1140
+      },
+      {
+        "name": "kanji",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1120259502797754479/1132655516053672046/6604.png"
+        ],
+        "x": 1662,
+        "y": 1173
+      },
+      {
+        "name": "Mini-Cirno & Mini-Daiyousei",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131711749700190279/1132559255577313330/dayousei.png"
+        ],
+        "x": 1652,
+        "y": 1138
+      },
+      {
+        "name": "9ball",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131711749700190279/1132544705113104445/image.png"
+        ],
+        "x": 1642,
+        "y": 1140
+      },
+      {
+        "name": "Mini Mystia",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1132002771533574207/1132892556569608332/Rose_Mystia_1_to_1.png"
+        ],
+        "x": 180,
+        "y": 1009
+      },
+      {
+        "name": "backup Mini Mystia",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1132002771533574207/1132892556569608332/Rose_Mystia_1_to_1.png"
+        ],
+        "x": 2894,
+        "y": 1225
+      },
+      {
+        "name": "ZUN",
+        "sources": [
+          "https://media.discordapp.net/attachments/1131964242346659992/1131992313346920591/Zun_place.png"
+        ],
+        "x": 2172,
+        "y": 1752
+      },
+      {
+        "name": "romania alice",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131922546472800348/1132308503168557146/image.png"
+        ],
+        "x": 1201,
+        "y": 1143
+      },
+      {
+        "name": "blacksouls",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131677727196455013/1132101111134818515/1_to_1.png"
+        ],
+        "x": 386,
+        "y": 1245
+      },
+      {
+        "name": "tiny kasen",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1120259502797754479/1132469286569525328/kasen.png"
+        ],
+        "x": 388,
+        "y": 283
+      },
+      {
+        "name": "miko trans",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131947820992168077/1132208599377125416/image.png"
+        ],
+        "x": 1639,
+        "y": 1066
+      },
+      {
+        "name": "thai minimima and sekibanki",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131711749700190279/1132641145055363143/7-23-2023-realmadrid-thai-mima-sekibanki_v3.png"
+        ],
+        "x": 457,
+        "y": 1039
+      },
+      {
+        "name": "gap train",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1132430920863973506/1132687642392264754/YukariYES.png"
+        ],
+        "x": 1981,
+        "y": 608
+      },
+      {
+        "name": "Rin Satsuki hijack",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1120259502797754479/1132783054751010917/weeny_Hijack_1.png"
+        ],
+        "x": 1236,
+        "y": 1740
+      },
+      {
+        "name": "Mini Nitori",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131964242346659992/1132945802470371409/NitoriSmall.png"
+        ],
+        "x": 370,
+        "y": 706
+      },
+      {
+        "name": "minihecatia",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131711749700190279/1132943455572729917/hecatiaaaaaaaaaaaaaa.png"
+        ],
+        "x": 383,
+        "y": 700
+      },
+      {
+        "name": "Wowaka Miku Temporary",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131324890717364226/1131967739280510986/omori-meek-drawing.png"
+        ],
+        "x": 70,
+        "y": 744
+      },
+      {
+        "name": "Doot asked me to put this",
+        "sources": [
+          "https://media.discordapp.net/attachments/1018971359478558770/1133024694652633130/red_hood.-679.-599.png"
+        ],
+        "x": 821,
+        "y": 401
+      }
+    ],
+    "whitelist": [
+      {
+        "name": "r/hatsune",
+        "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+      },
+      {
+        "name": "r/osuplace",
+        "url": "https://osu.place/e/osuplace2023.json"
+      },
+      {
+        "name": "vietnam",
+        "url": "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json"
+      },
+      {
+        "name": "P3ACE",
+        "url": "https://charity.pxls.space/p3ace"
+      },
+      {
+        "name": "ReiMari",
+        "url": "https://raw.githubusercontent.com/LynnAnalytics/templateManager/main/templates/yuri5.json"
+      }
+    ],
+    "blacklist": [
+      {
+        "name": "Touhou r/place",
+        "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
+      },
+      {
+        "name": "Touhou r/place",
+        "url": "https://rentry.org/touhouplace2023/raw"
+      },
+      {
+        "name": "Touhou r/place",
+        "url": "https://tp23.dogecore.net/template.json"
+      }
+    ]
+  }
