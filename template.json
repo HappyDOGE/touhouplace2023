@@ -4,6 +4,14 @@
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
     {
+      "name": "mini flan n rikako",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132978062359810068/RIKAKO.png"
+      ],
+      "x": 1633,
+      "y": 1120
+    },
+    {
       "name": "sanae and suwako",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131711749700190279/1132935516329885696/minisanaesuwako.png"
