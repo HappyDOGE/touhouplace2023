@@ -252,6 +252,10 @@
       {
         "name": "ReiMari",
         "url": "https://raw.githubusercontent.com/LynnAnalytics/templateManager/main/templates/yuri5.json"
+      },
+      {
+          "name": "Touhou - Team Tiniest",
+          "url": "https://wearr.dev/files/template.json"
       }
     ],
     "blacklist": [
