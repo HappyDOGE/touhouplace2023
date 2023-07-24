@@ -212,7 +212,11 @@
     {
       "name": "P3ACE",
       "url": "https://charity.pxls.space/p3ace"
-    }
+    },
+    {
+      "name": "ReiMari",
+      "url": "https://raw.githubusercontent.com/LynnAnalytics/templateManager/main/templates/yuri5.json"
+    } 
   ],
   "blacklist": [
     {
