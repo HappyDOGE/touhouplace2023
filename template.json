@@ -210,7 +210,19 @@
         ],
         "x": 821,
         "y": 401
+      },
+      {
+        "name": "good apple",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1132651009714442271/1133128315096547582/image.png"
+        ],
+        "x": 97,
+        "y": 308
       }
+
+
+
+        
     ],
     "whitelist": [
       {
