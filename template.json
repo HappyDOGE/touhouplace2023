@@ -4,6 +4,14 @@
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
     {
+      "name": "sanae and suwako",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131711749700190279/1132935516329885696/minisanaesuwako.png"
+      ],
+      "x": 1648,
+      "y": 1197
+    },
+    {
       "name": "hijack",
       "sources": [
         "https://cdn.discordapp.com/attachments/1120259502797754479/1132952385191419914/hijack_3x34.png"
@@ -26,8 +34,8 @@
       ],
       "x": 1622,
       "y": 1136
-    },    
-         {
+    },
+    {
       "name": "mini sakyya",
       "sources": [
         "https://cdn.discordapp.com/attachments/1132853978422591550/1132853978875564074/sakuya.png"
@@ -43,14 +51,6 @@
       "x": 1635,
       "y": 1140
     },
-    {
-      "name": "sanae and suwako",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131711749700190279/1132935516329885696/minisanaesuwako.png"
-      ],
-      "x": 1648,
-      "y": 1197
-    },    
     {
       "name": "kanji",
       "sources": [
@@ -72,8 +72,8 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131711749700190279/1132544705113104445/image.png"
       ],
-      "x": 1642, 
-      "y": 1140 
+      "x": 1642,
+      "y": 1140
     },
     {
       "name": "Mini Mystia",
@@ -136,16 +136,16 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131711749700190279/1132641145055363143/7-23-2023-realmadrid-thai-mima-sekibanki_v3.png"
       ],
-      "x": 457, 
-      "y": 1039 
+      "x": 457,
+      "y": 1039
     },
     {
       "name": "gap train",
       "sources": [
         "https://cdn.discordapp.com/attachments/1132430920863973506/1132687642392264754/YukariYES.png"
       ],
-      "x": 1981, 
-      "y": 608 
+      "x": 1981,
+      "y": 608
     },
     {
       "name": "Rin Satsuki hijack",
@@ -170,7 +170,7 @@
       ],
       "x": 180,
       "y": 1040
-    }, 
+    },
     {
       "name": "minihecatia",
       "sources": [
@@ -178,22 +178,14 @@
       ],
       "x": 383,
       "y": 700
-    }, 
-    
+    },
     {
-
       "name": "Wowaka Miku Temporary",
-
       "sources": [
-
         "https://cdn.discordapp.com/attachments/1131324890717364226/1131967739280510986/omori-meek-drawing.png"
-
       ],
-
       "x": 70,
-
       "y": 744
-
     }
   ],
   "whitelist": [
