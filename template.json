@@ -3,6 +3,14 @@
   "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
+      {
+      "name": "Star Wars and Vietnam Collab",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1133021029783064717/collab.png"
+      ],
+      "x": 130,
+      "y": 1065
+    },
     {
       "name": "mini flan n rikako",
       "sources": [
@@ -162,14 +170,6 @@
       ],
       "x": 370,
       "y": 706
-    },
-    {
-      "name": "canada goose expansion",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1088193718881878026/1132921374650941491/goose.full.png"
-      ],
-      "x": 180,
-      "y": 1040
     },
     {
       "name": "minihecatia",
