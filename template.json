@@ -76,6 +76,14 @@
       "y": 1009
     },
     {
+      "name": "backup Mini Mystia",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132002771533574207/1132892556569608332/Rose_Mystia_1_to_1.png"
+      ],
+      "x": 485,
+      "y": 785
+    },
+    {
       "name": "ZUN",
       "sources": [
         "https://media.discordapp.net/attachments/1131964242346659992/1131992313346920591/Zun_place.png"
