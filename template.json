@@ -24,8 +24,8 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131711749700190279/1132889789885059122/RIKAKO.png"
       ],
-      "x": 1621,
-      "y": 1116
+      "x": 1622,
+      "y": 1136
     },    
          {
       "name": "mini sakyya",
@@ -43,6 +43,14 @@
       "x": 1635,
       "y": 1140
     },
+    {
+      "name": "sanae and suwako",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131711749700190279/1132935516329885696/minisanaesuwako.png"
+      ],
+      "x": 1648,
+      "y": 1197
+    },    
     {
       "name": "kanji",
       "sources": [
@@ -155,6 +163,14 @@
       "x": 370,
       "y": 707
     },
+    {
+      "name": "canada goose expansion",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1088193718881878026/1132921374650941491/goose.full.png"
+      ],
+      "x": 180,
+      "y": 1040
+    },  
     {
 
       "name": "Wowaka Miku Temporary",
