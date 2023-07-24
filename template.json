@@ -3,6 +3,14 @@
   "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
+    {
+      "name": "hijack",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1120259502797754479/1132856989060452503/Full_Hijcak2.png"
+      ],
+      "x": 117,
+      "y": 998
+    },
          {
       "name": "mini sakyya",
       "sources": [
