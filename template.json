@@ -3,6 +3,14 @@
     "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
     "notifications": "https://tp23-broadcaster.dogecore.net",
     "templates": [
+        {
+        "name": "lizard bill",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131677727196455013/1133099246384594954/bill_1_to_1.png"
+        ],
+        "x": 2880,
+        "y": 1238
+      },
       {
         "name": "Berserk&co swords alliance",
         "sources": [
