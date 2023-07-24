@@ -38,7 +38,7 @@
     {
       "name": "Reimu and Marisa",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131612045226283179/1132923454006505542/overlaid_v3.png"
+        "https://cdn.discordapp.com/attachments/1131612045226283179/1132940745972654101/overlaid_v3_new_heart.png"
       ],
       "x": 1635,
       "y": 1140
@@ -170,7 +170,16 @@
       ],
       "x": 180,
       "y": 1040
-    },  
+    }, 
+    {
+      "name": "minihecatia",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131711749700190279/1132943455572729917/hecatiaaaaaaaaaaaaaa.png"
+      ],
+      "x": 383,
+      "y": 700
+    }, 
+    
     {
 
       "name": "Wowaka Miku Temporary",
