@@ -3,6 +3,14 @@
     "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
     "notifications": "https://tp23-broadcaster.dogecore.net",
     "templates": [
+            {
+        "name": "RennnnnMari",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1132651009714442271/1133306972595290182/Reimari_outer.png"
+        ],
+        "x": 73,
+        "y": 329
+      },
         {
       "name": "finally_hots",
       "sources": [
