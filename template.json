@@ -258,10 +258,6 @@
       "url": "https://fmxal.mooo.com/fuck-spez-live/template.json"
     },
     {
-      "name": "P3ACE",
-      "url": "https://charity.pxls.space/p3ace"
-    },
-    {
       "name": "ReiMari",
       "url": "https://raw.githubusercontent.com/LynnAnalytics/templateManager/main/templates/yuri5.json"
     },
@@ -276,7 +272,16 @@
     {
       "name": "Girl's Frontline",
       "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
+    },
+    {
+      "name": "poland",
+      "url": "https://rentry.co/xyfu3/raw"
+    },
+    {
+      "name": "P3ACE",
+      "url": "https://charity.pxls.space/p3ace"
     }
+
   ],
   "blacklist": [
     {
