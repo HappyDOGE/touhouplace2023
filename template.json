@@ -4,6 +4,14 @@
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
     {
+      "name": "fakehsi",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/960158548573163581/1133049150645227610/HSI_new.png"
+      ],
+      "x": 1507,
+      "y": 340
+    },
+    {
       "name": "RennnnnMari",
       "sources": [
         "https://cdn.discordapp.com/attachments/1132651009714442271/1133369562784612422/ReimariandMalicerelocatedhots.png"
