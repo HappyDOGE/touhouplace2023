@@ -218,10 +218,15 @@
         ],
         "x": 97,
         "y": 308
+      },
+      {
+        "name": "nitori at good apple",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131711749700190279/1133063031794966578/nitori11.png"
+        ],
+        "x": 87,
+        "y": 318
       }
-
-
-
         
     ],
     "whitelist": [
