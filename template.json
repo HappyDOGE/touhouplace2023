@@ -4,6 +4,14 @@
     "notifications": "https://tp23-broadcaster.dogecore.net",
     "templates": [
         {
+      "name": "finally_hots",
+      "sources": [
+        "https://i.imgur.com/kvveYiK.png"
+      ],
+      "x": 57,
+      "y": 293
+    },
+        {
         "name": "lizard bill",
         "sources": [
           "https://cdn.discordapp.com/attachments/1131677727196455013/1133099246384594954/bill_1_to_1.png"
