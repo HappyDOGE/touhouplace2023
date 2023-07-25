@@ -3,6 +3,14 @@
   "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
   "notifications": "https://tp23-broadcaster.dogecore.net",
   "templates": [
+        {
+      "name": "sesbian lex",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132651009714442271/1133448549204504617/2hu_Yuri_stuff_5.png"
+      ],
+      "x": 0,
+      "y": 322
+    },
     {
       "name": "fakehsi",
       "sources": [
